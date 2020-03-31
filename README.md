@@ -3,3 +3,5 @@
 ### terraform init
 
 ### terraform apply
+
+##### it should create an instance 
